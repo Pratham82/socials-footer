@@ -3,9 +3,7 @@
 ## Dependencies:
 
 ```
- npm i @fortawesome/react-fontawesome
-       @fortawesome/free-brands-svg-icons
-       @fortawesome/fontawesome-svg-core
+ npm i @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons @fortawesome/fontawesome-svg-core
 ```
 
 ## Usage:
